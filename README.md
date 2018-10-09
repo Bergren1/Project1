@@ -6,7 +6,7 @@ This project was aimed at creating geospatial analysis of the relationship betwe
 
 While it is well known that Baltimore has poorly funded public transportation systems, it may be less obvious how this infrastructure is disproportionately accessible based on factors such as race.
 
-![](https://github.com/Bergren1/Project1/blob/Front-Page/Baltimore.jpg)
+![](Front-Page/Baltimore.jpg)
 
 
 
